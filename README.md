@@ -1,1 +1,1 @@
-# Java-Practice
+# CodingBat Solutions
