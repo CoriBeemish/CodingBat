@@ -8,6 +8,8 @@ front22("Ha") → "HaHaHa"
 front22("abc") → "ababcab"
 */
 
+
+// CodingBat Solution
 public String front22(String str) {
   String front;
   
@@ -19,6 +21,26 @@ public String front22(String str) {
   }
   
   return front + str + front;
-  
-  
+}
+
+
+// Complier Solution
+public class Main {
+
+    public static void main(String[] args) {
+
+        String front;
+        String str = "";
+
+
+        if(str.length() <= 2){
+            front = str;
+        }
+        else {
+            front = str.substring(0, 2);
+        }
+
+        System.out.println(front + str + front);
+
+    }
 }
