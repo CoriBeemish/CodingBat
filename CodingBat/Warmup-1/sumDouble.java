@@ -4,6 +4,9 @@
 //sumDouble(3, 2) → 5
 //sumDouble(2, 2) → 8
 
+int a = 2;
+int b = 4;
+
 public int sumDouble(int a, int b) {
   int sum = a + b;
   if (a == b){
