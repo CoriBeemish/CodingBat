@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a non-empty string like "Code" return a string like "CCoCodCode".
 

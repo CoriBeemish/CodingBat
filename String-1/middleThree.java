@@ -1,4 +1,4 @@
-// Completed on January 4th, 2018
+// Completed on January 4th, 2019
 
 // Given a string of odd length, return the string length 3 from its middle, so "Candy" yields "and". The string length will be at least 3.
 

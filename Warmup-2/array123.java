@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given an array of ints, return true if the sequence of numbers 1, 2, 3 appears in the array somewhere.
 

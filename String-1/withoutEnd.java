@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string, return a version without the first and last char, so "Hello" yields "ell". The string length will be at least 2.
 

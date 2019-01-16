@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string, return the count of the number of times that a substring length 2 appears in the string and also as the last 2 chars of the string, so "hixxxhi" yields 1 (we won't count the end substring).
 

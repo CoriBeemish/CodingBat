@@ -1,4 +1,4 @@
-// Completed on January 4th, 2018
+// Completed on January 4th, 2019
 
 // Given a string, if the string begins with "red" or "blue" return that color string, otherwise return the empty string.
 

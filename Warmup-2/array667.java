@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given an array of ints, return the number of times that two 6's are next to each other in the array. Also count instances where the second "6" is actually a 7.
 

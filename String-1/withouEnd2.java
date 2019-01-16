@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
 

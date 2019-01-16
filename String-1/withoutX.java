@@ -1,4 +1,4 @@
-// Completed on January 4th, 2018
+// Completed on January 4th, 2019
 
 // Given a string, if the first or last chars are 'x', return the string without those 'x' chars, and otherwise return the string unchanged.
 

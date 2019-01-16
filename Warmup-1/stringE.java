@@ -1,4 +1,4 @@
-// Completed on January 2nd, 2018
+// Completed on January 2nd, 2019
 
 // Return true if the given string contains between 1 and 3 'e' chars.
 

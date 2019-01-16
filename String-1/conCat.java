@@ -1,4 +1,4 @@
-// Completed on January 4th, 2018
+// Completed on January 4th, 2019
 
 // Given two strings, append them together (known as "concatenation") and return the result. However, if the concatenation creates a double-char, then omit one of the chars, so "abc" and "cat" yields "abcat".
 

@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given 2 strings, return their concatenation, except omit the first char of each. The strings will be at least length 1.
 

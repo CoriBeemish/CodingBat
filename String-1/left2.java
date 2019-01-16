@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string, return a "rotated left 2" version where the first 2 chars are moved to the end. The string length will be at least 2.
 

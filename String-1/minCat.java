@@ -1,4 +1,4 @@
-// Completed on January 4th, 2018
+// Completed on January 4th, 2019
 
 // Given two strings, append them together (known as "concatenation") and return the result. However, if the strings are different lengths, omit chars from the longer string so it is the same length as the shorter string. So "Hello" and "Hi" yield "loHi". The strings may be any length.
 

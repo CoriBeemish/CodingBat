@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string, return a new string made of every other char starting with the first, so "Hello" yields "Hlo".
 

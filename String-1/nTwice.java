@@ -1,4 +1,4 @@
-// Completed on January 3rd, 2018
+// Completed on January 3rd, 2019
 
 // Given a string and an int n, return a string made of the first and last n chars from the string. The string length will be at least n.
 
